@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+this app uses database, the api and the sql file are included in the api folder. 
 
 ## Available Scripts
 
